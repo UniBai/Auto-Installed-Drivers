@@ -3,7 +3,8 @@ Just recording.....
 
 ✖︎ Ignore V.1.2 ✖︎
 
-The current Final Version is V.1.3 - 
+The current Final Version is V.1.3 -
+
 ➩ Fix when installing graphics driver shows warning information
 
 ➩ Add save button to save json file
